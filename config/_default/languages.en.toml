@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [params.author]
 name = "Leye Ifaturoti"
-image = "img/author.jpg"
+image = "img/author.webp"
 headline = "I'm only human"
 bio = "A little bit about you"
 links = [
