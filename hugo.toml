@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-GB'
+title = 'Adeleye Ifatuorti Blog'
+theme = 'congo'
