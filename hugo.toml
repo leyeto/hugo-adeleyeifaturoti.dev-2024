@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-GB'
-# title = "Leye Ifaturoti's Blog"
+title = "Leye's Blog"
 theme = 'congo'
