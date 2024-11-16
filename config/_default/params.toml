@@ -16,7 +16,7 @@ enableCodeCopy = false
 enableImageLazyLoading = true
 enableImageWebp = true
 
-# robots = ""
+robots = ""
 fingerprintAlgorithm = "sha256"
 
 [header]
@@ -60,7 +60,7 @@ showBreadcrumbs = false
 showSummary = false
 showTableOfContents = false
 showTaxonomies = false
-groupByYear = true
+groupByYear = false
 paginationWidth = 1
 
 [sitemap]
