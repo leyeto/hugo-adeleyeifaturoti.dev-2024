@@ -12,21 +12,89 @@ projectObjective = "Build a new feature"
 lessonsLearnt = "Learned how to do something"
 +++
 
-A brief description of what the function does, using simple present tense in the
-third person singular form. For example:
+# H1
 
-`someFunction` returns the string `s` repeated `n` times.
+## H2
 
-## Signature
+### H3
 
-```text
-func someFunction(s string, n int) string
+#### H4
+
+##### H5
+
+###### H6
+
+**bold text**
+
+_italics text_
+
+> blockquote
+
+Ordered list:
+
+1. First item
+2. Second item
+3. Third item
+
+Unordered list:
+
+- List item
+- List item
+- List item
+
+Code `code`
+
+Horizontal rule
+
+---
+
+Link
+
+[link text](https://example.com)
+
+Image
+
+![alt text](image.jpg)
+
+Table with alignment:
+
+| Syntax    | Description |   Test Text |
+| :-------- | :---------: | ----------: |
+| Header    |    Title    | Here's this |
+| Paragraph |    Text     |    And more |
+
+Fenced code block:
+
+```
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York"
+}
 ```
 
-## Examples
+Footnote: |Heres's a sentence with a footnote. [^1]| [^1]: Here's the footnote.
 
-One or more practical examples, each within a fenced code block.
+Heading ID: | ### My Great Heading {#custom-id}
 
-## Notes
+Definition List: term : definition
 
-Additional information to clarify as needed.
+~~strikethrough~~
+
+Task list:
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Emoji: That is so funny! :joy:
+
+Highlight:
+
+I need to highlight these ==very important words==.
+
+Subscript:
+
+H~2~O
+
+Superscript: X^2^

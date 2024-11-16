@@ -75,7 +75,7 @@ Footnote: |Heres's a sentence with a footnote. [^1]| [^1]: Here's the footnote.
 
 Heading ID: | ### My Great Heading {#custom-id}
 
-Defination List: term : definition
+Definition List: term : definition
 
 ~~strikethrough~~
 
