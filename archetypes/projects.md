@@ -1,7 +1,12 @@
 +++
-date = '{{ .Date }}'
+title = "{{ replace .File.ContentBaseName "-" " " | title }}"
+date = {{ .Date }}
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+description = ""
+summary = ""
+showSummary = false
+slug = '{{ substr (md5 (printf "%s%s" .Date (replace .TranslationBaseName "-" " " | title))) 4 8 }}'
+tags = ['Others']
 technologies = ["JavaScript", "React", "Tailwind"]
 projectObjective = "Build a new feature"
 lessonsLearnt = "Learned how to do something"
