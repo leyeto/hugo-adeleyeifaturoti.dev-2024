@@ -1,15 +1,11 @@
 +++
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "Third Post"
+date = 2024-11-17T21:37:32Z
 draft = true
 description = ""
-categories = ["SEO","Digital Marketing"]
-tags = ["SEO Tips","Digital Marketing"]
 summary = ""
-keywords = ["SEO","Digital Marketing"]
-
-showSummary = true
-slug = '{{ substr (md5 (printf "%s%s" .Date (replace .TranslationBaseName "-" " " | title))) 4 8 }}'
+showSummary = false
+slug = 'be15fb5e'
 tags = ['Others']
 +++
 

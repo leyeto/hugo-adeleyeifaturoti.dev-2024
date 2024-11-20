@@ -21,8 +21,8 @@ pageRef = "projects"
 weight = 10
 
 [[main]]
-name = "Categories"
-pageRef = "categories"
+name = "Travels"
+pageRef = "travels"
 weight = 20
 
 [[main]]
