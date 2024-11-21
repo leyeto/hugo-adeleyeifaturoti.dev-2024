@@ -9,14 +9,14 @@ weight = 1
 [params]
 dateFormat = "2 January 2006"
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts", "travels"]
 description = "My awesome website"
 
 [params.author]
 name = "Leye Ifaturoti"
 image = "img/author.webp"
-headline = "I'm only human"
-bio = "A little bit about you"
+headline = "Freelance Full Stack Developer and Digital Marketing Specialist"
+bio = "I'm a Full Stack Developer that enjoys coding, travel, tech, business, fitness, good food and a lot more.\nThis website is built with Hugo and the main objective is to write about these interests "
 links = [
   { email = "mailto:ioaleye@gmail.com" },
   { link = "https://leye.dev" },
