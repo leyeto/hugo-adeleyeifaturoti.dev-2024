@@ -1,7 +1,12 @@
 +++
-date = '2024-11-07T22:19:22Z'
+title = "Why Blog at All"
+date = 2024-11-20T20:16:49Z
 draft = true
-title = 'My First Post'
+description = ""
+summary = ""
+showSummary = false
+slug = 'ec728150'
+tags = ['Others']
 +++
 
 # Why Blog At All?
@@ -42,9 +47,11 @@ Write one thing you're thankful for every day---it could be as small as a good
 cup of coffee or a conversation with a friend. It's a simple practice that can
 change your perspective.
 
-One resource I love is Action for Happiness, which offers daily challenges to
-cultivate joy. For book lovers, The Book of Joy by Dalai Lama and Desmond Tutu
-is another great way to find inspiration.
+One resource I love is
+[Action for Happiness](https://www.actionforhappiness.org "Action for Happiness Homepage"),
+which offers daily challenges to cultivate joy. For book lovers, The
+[Book of Joy](https://www.goodreads.com/book/show/29496453-the-book-of-joy?from_search=true&from_srp=true&qid=4X7hjHVCYP&rank=1 "Goodreads - The Book of Joy by Dalai Lama and Desmond Tutu"),
+by Dalai Lama and Desmond Tutu is another great way to find inspiration.
 
 ### Blogging as Self-Expression
 
